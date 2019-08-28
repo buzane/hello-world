@@ -1,0 +1,13 @@
+body {
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    margin-left: 36px;
+    margin-right: 36px;
+    color: #101010;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+  }
